@@ -1,6 +1,6 @@
 # K.A.I.R.O.S. (Kinetic Alignment of Interacting Relativistic Oscillatory Systems)
 
-![Status](https://img.shields.io/badge/Status-Theoretical_Alpha-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Physics](https://img.shields.io/badge/Physics-NonLinear_Dynamics-purple)
+![Status](https://img.shields.io/badge/Status-Theoretical_Alpha-orange) ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg) ![Physics](https://img.shields.io/badge/Physics-NonLinear_Dynamics-purple)
 
 ## ⏳ Résumé : Le "Maintenant" comme Tension de Phase
 
