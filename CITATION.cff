@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "Si vous utilisez cette théorie, ce code ou les concepts de K.A.I.R.O.S., merci de les citer comme suit."
 title: "K.A.I.R.O.S. (Kinetic Alignment of Interacting Relativistic Oscillatory Systems)"
 abstract: "Framework théorique modélisant le 'Moment Présent' comme une transition de phase de synchronisation (Kuramoto) dans un réseau d'oscillateurs relativistes. Le temps émerge comme une compétition entre couplage entropique et dilatation gravitationnelle."
-authors: "Bryan Ouellette"
+authors:
+  - name: "Bryan Ouellette"
 version: 0.1.0-alpha
 date-released: 2026-01-07
 license: Apache-2.0
