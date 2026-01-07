@@ -51,25 +51,3 @@ Simulation d'une chaîne d'oscillateurs tombant vers une masse centrale, montran
 
 ---
 
-## 📂 Structure du Projet
-
-* `/Core` : Dérivations mathématiques de la Chronotension et de la TFT (Temporal Field Theory).
-* `/Simulations` : Scripts Python (NumPy/SciPy) modélisant des réseaux d'horloges sous contrainte gravitationnelle.
-* `/Docs` : Rapports de recherche sur le lien entre entropie et couplage ($K \propto \nabla S$).
-* `/Neuro` : Parallèles avec la synchronisation neuronale (bande Gamma 40Hz) comme base de la conscience du "maintenant".
-
----
-
-## 🚀 Feuille de Route
-
-1.  **Phase 1 :** Simulation 1D d'une chaîne d'oscillateurs dans un potentiel $1/r$.
-2.  **Phase 2 :** Intégration des équations de champ temporel (TFT) pour rendre $K$ dynamique.
-3.  **Phase 3 :** Quantification du coût thermodynamique du maintien du "Présent".
-
-## 🤝 Contribution
-
-Les contributions en physique théorique, dynamique non-linéaire et simulation numérique sont les bienvenues. Aidez-nous à définir les paramètres de l'horloge universelle.
-
-> *"Le temps est ce qui empêche tout d'arriver en même temps. Le couplage est ce qui permet à quelque chose d'arriver."*
-
----
