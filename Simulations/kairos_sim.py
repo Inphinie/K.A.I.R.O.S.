@@ -74,3 +74,4 @@ plt.show()
 
 print("Simulation terminée. Si la ligne rouge suit la ligne noire, la gravité a gagné (pas de présent unique).")
 print("Si la ligne rouge est plate, le couplage a gagné (Présent synchronisé).")
+---
